@@ -1,8 +1,8 @@
-# jekyll-template
+# jekyll-template-example
 This repo is a template to create new repository based on jekyll for github pages
 
 **table of contents**
-- [jekyll-template](#jekyll-template)
+- [jekyll-template-example](#jekyll-template-example)
 - [Getting started](#getting-started)
 - [Running on local](#running-on-local)
 - [Troubleshooting](#troubleshooting)
@@ -16,7 +16,7 @@ This repo is a template to create new repository based on jekyll for github page
 
 # Running on local
 1. start server - `sh scripts/localhost.sh --start`
-   1. This will open chrome browser or you can visit [localhost:9999/my_repo_name](http://localhost:9999/my_repo_name)
+   1. This will open chrome browser or you can visit [localhost:9999/jekyll-template-example](http://localhost:9999/jekyll-template-example)
    2. Initially, you will see error page `This site can’t be reached`
    3. after some time when container has started, you will see the site running
 2. stop server - `sh scripts/localhost.sh --stop`
